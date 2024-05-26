@@ -168,4 +168,27 @@ background: #fff;
 
 .quix_box section .que_text {
 font-size: 25px;
+font-weight: 600;
+}
+
+.quix_box section .option_list {
+padding: 20px 0;
+display: block;
+}
+
+section .option_list .option {
+background: aliceblue;
+border: 1px solid #84c5fe;
+border-radius: 5px;
+padding: 8px 15px;
+margin-bottom: 15px;
+font-size: 17px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+cursor: pointer;
+}
+
+.option_list .option:last-child {
+margin-bottom: 0px;
 }
