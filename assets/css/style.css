@@ -11,7 +11,9 @@ body {
 background: #007bff;
 }  
 
-.start_btn {
+.start_btn,
+.info_box,
+.quiz_box {
 position: absolute;
 top: 50%;
 left: 50%;
@@ -102,3 +104,20 @@ transition: all 0.3s ease;
     color: #fff;
     background: #007bff;
 } 
+
+.quiz_box {
+width: 550px;
+background: #fff;
+border-radius: 5px;
+}
+
+.quiz_box header {
+height: 70px;
+padding: 0 30px;
+background: #fff;
+display: flex;
+align-items: center;
+justify-content: space-between;
+border-radius: 5px 5px 0 0;
+box-shadow: 0px 3px 5px 1px rgba(0,0,0,0.1);
+}
