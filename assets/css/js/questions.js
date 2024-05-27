@@ -36,23 +36,23 @@ let questions = [
 {
     numb: 4,
     question: "What does SQL stand for?",
-    answer: "Hypertext Preprocessor",
+    answer: "Structured Query Langauge",
     options: [
-        "Hypertext Preprocessor",
-        "Hypertext Programming",
-        "Hypertext Preprogramming",
-        "Hometext Preprocessor"
+        "Stylish Question Language",
+        "Stylesheet Query Language",
+        "Statement Question Language",
+        "Structured Query Language"
     ]
 },
 {
     numb: 5,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "What does XML stand for?",
+    answer: "eXtensible Markup Language",
     options: [
-        "Hypertext Preprocessor",
-        "Hypertext Programming",
-        "Hypertext Preprogramming",
-        "Hometext Preprocessor"
+        "eXtensible Markup Language",
+        "eXecutable Multiple Language",
+        "eXTra Multi-Program Language",
+        "eXamine Multiple Language"
     ]
 },
 ];
