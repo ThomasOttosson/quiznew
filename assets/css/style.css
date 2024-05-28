@@ -141,7 +141,7 @@ body{
     font-weight: 500;
     height: 30px;
     width: 45px;
-    color: #00000;
+    color: black;
     border-radius: 5px;
     line-height: 30px;
     text-align: center;
@@ -187,7 +187,7 @@ section .option_list .option:last-child{
 section .option_list .option:hover{
     color: #004085;
     background: #ffb57c;
-    border: 1px solid #00000;
+    border: 1px solid black;
 }
 section .option_list .option.correct{
     color: #155724;
@@ -253,7 +253,7 @@ footer button{
     color: #fff;
     border-radius: 5px;
     background: #ff6f00;
-    border: 1px solid ##ff6f00;
+    border: 1px solid #ff6f00;
     line-height: 10px;
     opacity: 0;
     pointer-events: none;

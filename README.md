@@ -34,9 +34,11 @@ This is a music quiz game created to entertain people who admire music. The idea
 
 ## Features left to implement
 
-* I wanted to make the orange line to go from A to B in 10 seconds instead of 15.
+* Make the orange line to go from A to B in 10 seconds instead of 15.
 
-* I wanted to improve the design a lot more so the design looks much more original and different instead of a standard format. Unfortunatley i wasn't able to completed before the 29th May 2024 due to medical conditions.
+* Improve the design a lot more so the design looks much more original and different instead of a standard format. Unfortunatley i wasn't able to completed before the 29th May 2024 due to bad personal medical conditions.
+
+
 
 ## Testing
 
@@ -49,3 +51,33 @@ This is a music quiz game created to entertain people who admire music. The idea
 ![lighthouse](./assets/images/lighthousequiz.png)
 
 * The game has been tested on lighthouse and you can see the results above.
+
+### Bugs
+
+* No bugs discovered except that the lighthouse results could potenially be improved of course.
+
+### Validator testing
+
+* No errors found on the HTML, CSS and Javascript codes.
+
+### Unfixed bugs
+
+* No unfixed bugs.
+
+## Deployment
+
+* The deployment was made through github. The step by step process where the following: Settings --> Pages --> Source --> Deploy from a branch --> Main --> /(root) --> Save.
+
+![Deployment](./assets/images/deployment.webp)
+
+## Credits
+
+* The majority of the total code was taken from or inspired by Coding Nepal. You can find them here: https://www.codingnepalweb.com/
+
+* Here is a url adress to check out their tutorials or lessons on how to build 10 easy games: https://www.codingnepalweb.com/best-javascript-games-for-beginners/
+
+## Media
+
+* All the icons used in the code was taken from font awsome. Here is a url adress to their homepage: https://fontawesome.com/ 
+
+* The Color theme was inspired by Code Institute. Here is their homepage: https://codeinstitute.net/se/
